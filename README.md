@@ -1,4 +1,4 @@
-# phonegap-barcorde-scanner-example
+# Phonegap Barcorde scanner Example
 Barcode scanner example using PhoneGap / Apache Cordova
 
-Find Complete tutorial from http://phonegappro.com/tutorials/phonegap-bar-code-scanner-example/
+Find Complete tutorial from http://codesundar.com/tutorials/phonegap-bar-code-scanner-example/
